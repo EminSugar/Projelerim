@@ -8,7 +8,7 @@ const char *ssid = "Sugar";          // bağlanılacak olan kablosuz ağın SSID
 const char *password = "Emin249.";           // bağlanılacak olan kablosuz ağın şifresi
 
 const char *sunucu_IP = "maker.ifttt.com";           // bağlanılacak olan web sayfasının adresi
-String yol = "/trigger/DeneyDolabi/with/key/f6wYsaHkXUt7npgK434QwPnJg-TXud8GsRpM4wwoWuj";            // bağlanılacak olan web sayfasının adresi time.is/Kütahya,_Kütahya
+String yol = "/trigger/DeneyDolabi/with/key/f6wYsaHkXUt7npgK434QwPnJg-TXud8GsRpM4wwoWuj";            // bağlanılacak olan web sayfasının adresi 
 
 dht11 DHT11;
 int sicaklik, nem;
